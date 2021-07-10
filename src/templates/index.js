@@ -1,0 +1,5 @@
+export {default as TuchiyaHistory} from "./TuchiyaHistory"
+export {default as Home} from "./Home"
+export {default as Movie} from "./Movie"
+export {default as Event} from "./Event"
+export {default as Tuchista} from "./Tuchista"
